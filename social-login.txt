@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Facebook
-=======
-Twitter
->>>>>>> social-login/twitter
+Facebook Fuck
+Twitter App
